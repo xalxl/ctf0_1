@@ -1,1 +1,1 @@
-flag{this ia test !}
+flag{Xctf_202011_ok}
